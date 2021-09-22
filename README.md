@@ -11,7 +11,7 @@
  
   <tr>
     <td>git config --local user.name "Seu nome"</td>
-    <td>Define o nome localmente.</td>
+    <td>Define o nome localmente(na maquina)</td>
   </tr>
   
   <tr>
