@@ -1,0 +1,23 @@
+{
+  "name": "comandos-git",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">   <a href=\"https://git-scm.com/\">Git</a> e <a href=\"https://github.com/\">GitHub</a>: Controle e Compartilhe seu Código </h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafedebug/comandos-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cafedebug/comandos-git/issues"
+  },
+  "homepage": "https://github.com/cafedebug/comandos-git#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
+}
