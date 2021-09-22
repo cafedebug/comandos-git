@@ -288,6 +288,11 @@
     <td>git config --global init.defaultBranch main</td>
     <td>Configurando o git para iniciar sempre com a branch main ao invés da master (git init). A partir da versão 2.28.</td>
   </tr>
+
+  <tr>
+    <td>git cherry-pick hash-do-commit</td>
+    <td>No caso da task ainda estar em andamento, ele consegue pegar um commit e copiá-lo de uma branch para a outra.</td>
+  </tr>
   
 </table>
 
