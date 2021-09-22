@@ -1,4 +1,4 @@
-## Titulo do Pull Request
+## Título do Pull Request
 
 # Descrição do pull request
 
@@ -6,9 +6,9 @@
 
 #### ✔️ Critério de aceite realizado
 
-Aqui entra comentários e ressalvas, se necessário.
+ - Aqui entra comentários e ressalvas, se necessário.
 
-(imagem representativa, se necessário)
+ (imagem representativa, se necessário)
 
  #### ❌ Critério de aceite não realizado
 
